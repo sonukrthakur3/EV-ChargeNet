@@ -29,19 +29,19 @@ The rapid transition towards Electric Vehicles (EVs) is a critical step for sust
 
 ### 1. Executive Overview & Geospatial Distribution
 *Highlights the macro-level concentration of charging infrastructure. The custom bubble map visually scales charging capabilities (kW).*
-<img src="images/Page 1.jpeg" width="800">
+<img src="git/images/Page 1.jpeg" width="800">
 
 ### 2. Infrastructure Demand Gap Analysis
 *The analytical core of the project. A scatter plot matrix that categorizes cities into 'Critical Gap', 'Moderate', or 'Balanced' zones based on vehicle density versus charger availability.*
-<img src="images/Page 2.jpeg" width="800">
+<img src="git/images/Page 2.jpeg" width="800">
 
 ### 3. Operator & Technology Landscape
 *Analyzes market competition (e.g., ChargeMod dominating the sample data) and reveals that ultra-fast DC chargers (150kW+) currently make up only 0.1% of the infrastructure.*
-<img src="images/Page 3.jpeg" width="800">
+<img src="git/images/Page 3.jpeg" width="800">
 
 ### 4. Station Explorer (Operational View)
 *A highly interactive tool allowing stakeholders to drill down by city, operator, and power rating with conditional color formatting.*
-<img src="images/Page 4.jpeg" width="800">
+<img src="git/images/Page 4.jpeg" width="800">
 
 ---
 
